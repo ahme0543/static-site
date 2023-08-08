@@ -16,6 +16,21 @@ export default {
           {
             text: 'contact us', 
             link: '/contact-us.md',
+          },
+
+          {
+            text: 'About me', 
+            link: '/about-me.md',
+          },
+
+          {
+            text: 'Projects', 
+            link: '/project.md',
+          }, 
+
+          {
+            text: 'Blogs', 
+            link: '/Blogs.md',
           }
 
 
